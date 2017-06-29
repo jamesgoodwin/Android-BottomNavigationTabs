@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UiTestApp</string>
+    <string name="countText">Current count: %1$d</string>
+</resources>
